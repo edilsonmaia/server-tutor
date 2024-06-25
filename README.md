@@ -35,3 +35,5 @@ API para disponibilização de Micro serviços (já em desenvolvimento)
 Integração da API da IA Claude da Anthropic https://www.anthropic.com/
 
 O projeto será disponibilizado no dia 30/06/2024 no GitHub.
+
+A função para API Openai e Anthropic, vem com a ideia de você não precisar se ocupar com a integração de IA para projetos, basta preencher os dados e a integração estará funcionando, no seu aplicativo ou MicroSaaS você apenas deverá se preocupar em enviar e receber as solicitações através de variaveis simples, sem a necessidade de todo o escopo de integração com a IA diretamente.
