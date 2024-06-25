@@ -1,5 +1,5 @@
 # server-tutor
-Projeto Tutor: Implantação e Gerenciamento de Servidores de hospedagem e Micro SaaS Linux
+Projeto Tutor: Implantação e Gerenciamento de Servidores de hospedagem e Micro SaaS Linux.
 O Projeto Tutor é um software de backend escrito em Python 3.9, flask e Gunicorn rodando sob o Apache com Mariadb, projetado para facilitar a implantação, personalização e gerenciamento de servidores Linux. Ele oferece uma solução para hospedar sites, configurar domínios, gerenciar certificados SSL e disponibilizar MicroSaas de forma extremamente rápida e fácil. Vamos explorar as funcionalidades detalhadamente:
 
 Funcionalidades Principais
